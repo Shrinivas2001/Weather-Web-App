@@ -1,2 +1,7 @@
 # Weather-Web-App
-Weather  Wb Application
+
+Weather  Web Application
+
+`<br>`
+
+Author : shrinivas kulkarni
